@@ -1,0 +1,11 @@
+C:\Users\Lock\Desktop\Deliverables\Deliverable_2_Ody\Deliverable_2_Ody\bin\Debug\netcoreapp3.0\Deliverable_2_Ody.exe
+C:\Users\Lock\Desktop\Deliverables\Deliverable_2_Ody\Deliverable_2_Ody\bin\Debug\netcoreapp3.0\Deliverable_2_Ody.deps.json
+C:\Users\Lock\Desktop\Deliverables\Deliverable_2_Ody\Deliverable_2_Ody\bin\Debug\netcoreapp3.0\Deliverable_2_Ody.runtimeconfig.json
+C:\Users\Lock\Desktop\Deliverables\Deliverable_2_Ody\Deliverable_2_Ody\bin\Debug\netcoreapp3.0\Deliverable_2_Ody.runtimeconfig.dev.json
+C:\Users\Lock\Desktop\Deliverables\Deliverable_2_Ody\Deliverable_2_Ody\bin\Debug\netcoreapp3.0\Deliverable_2_Ody.dll
+C:\Users\Lock\Desktop\Deliverables\Deliverable_2_Ody\Deliverable_2_Ody\bin\Debug\netcoreapp3.0\Deliverable_2_Ody.pdb
+C:\Users\Lock\Desktop\Deliverables\Deliverable_2_Ody\Deliverable_2_Ody\obj\Debug\netcoreapp3.0\Deliverable_2_Ody.csprojAssemblyReference.cache
+C:\Users\Lock\Desktop\Deliverables\Deliverable_2_Ody\Deliverable_2_Ody\obj\Debug\netcoreapp3.0\Deliverable_2_Ody.AssemblyInfoInputs.cache
+C:\Users\Lock\Desktop\Deliverables\Deliverable_2_Ody\Deliverable_2_Ody\obj\Debug\netcoreapp3.0\Deliverable_2_Ody.AssemblyInfo.cs
+C:\Users\Lock\Desktop\Deliverables\Deliverable_2_Ody\Deliverable_2_Ody\obj\Debug\netcoreapp3.0\Deliverable_2_Ody.dll
+C:\Users\Lock\Desktop\Deliverables\Deliverable_2_Ody\Deliverable_2_Ody\obj\Debug\netcoreapp3.0\Deliverable_2_Ody.pdb
